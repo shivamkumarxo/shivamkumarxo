@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivamkumarxo
+- 👋 Hi, I’m Shivam Kumar
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning some new programming language.
 - 💞️ I’m looking to collaborate on some coding projects.
